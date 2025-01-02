@@ -1,1 +1,2 @@
-# You can find my resume [here](https://github.com/LeahJuddNKU/resume/blob/main/LeahJuddResume-2025.pdf)!
+# You can find my resume [here](https://github.com/LeahJuddNKU/resume/main/raw
+/LeahJuddResume-2025.pdf)!
